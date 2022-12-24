@@ -1,5 +1,5 @@
 <h1 align="center"> 👋, I'm Seyit Han</h1>
-<h3 align="center">A passionate DevOps Engineer from Turkey</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 - 🔭 I’m currently working on [End-to-End CI/CD](https://github.com/seyithanalkan/ci-cd-automation)
 
