@@ -19,7 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyithanalkan&show_icons=true&locale=en" alt="seyithanalkan" /></p>
 
-<head>
-<title>github.com/seyithanalkan homepage</title>
-<meta name="google-site-verification" content="LdhS7wKSLk9DW_fby_hKNU0dY8f1O6426wk0PHwkVkU" />
-</head>
+
