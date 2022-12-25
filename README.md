@@ -21,5 +21,5 @@
 
 <head>
 <title>github.com/seyithanalkan homepage</title>
-<meta name="google-site-verification" content="google7786a6f4779f49f8.html" />
+<meta name="google-site-verification" content="LdhS7wKSLk9DW_fby_hKNU0dY8f1O6426wk0PHwkVkU" />
 </head>
