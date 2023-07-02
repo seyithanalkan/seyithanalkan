@@ -1,7 +1,7 @@
 <h1 align="center"> 👋, I'm Seyit Han</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [Project1: End-to-End CI/CD](https://github.com/seyithanalkan/ci-cd-automation) - [Project2: Kubernetes Automation](https://github.com/seyithanalkan/kubernetes-automation)
+- 🔭 I’m currently working on [Project1: End-to-End CI/CD](https://github.com/seyithanalkan/ci-cd-automation) - [Project2: Kubernetes Automation](https://github.com/seyithanalkan/kubernetes-automation) [Project3: Apigw-Lamda-EC2](https://github.com/seyithanalkan/apigw-lambda-ec2) 
 
 - 💬 Ask me about **CI/CD, Docker, AWS**
 
