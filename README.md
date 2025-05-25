@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **seyithanalkan@gmail.com**
 
-- 📄 Know about my experiences [Seyit Han Alkan CV](https://drive.google.com/file/d/1FekZ1uEFDCWegvHbYeEjYeUnAW8RARPp/view?usp=drivesdk)
+- 📄 Know about my experiences [Seyit Han Alkan CV](https://drive.google.com/file/d/19LbxWkmcC90fe2x2zx_Uy7LD3Xmm2TV8/view?usp=drivesdk)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
