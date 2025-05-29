@@ -43,6 +43,7 @@
 ---
 
 ## 📫 Contact
+- 🌐 [seyithanalkan.com](https://seyithanalkan.com) 
 - ✉️ seyithanalkan@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/seyithanalkan)
 
