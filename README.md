@@ -6,25 +6,26 @@
 ## 🔭 Featured Projects
 
 1. **[MLOps Retail Forecast Pipeline](https://github.com/seyithanalkan/mlops-project)**  
-   End-to-end machine learning pipeline on AWS ECS: data generation, feature engineering, LSTM training, and FastAPI model serving via Fargate.
+   End-to-end ML pipeline on AWS ECS: data generation, feature engineering, model training, and FastAPI serving via Fargate.
 
 2. **[Kubernetes Automation](https://github.com/seyithanalkan/kubernetes-automation)**  
-   Infrastructure-as-Code for Kubernetes clusters (EKS & self-managed), Helm chart provisioning, CI/CD integration.
+   Pulumi & Helm CI for provisioning EKS, packaging & pushing React Helm charts to ECR, and deploying via ArgoCD.
 
 3. **[CI/CD Automation](https://github.com/seyithanalkan/ci-cd-automation)**  
-   GitHub Actions and GitLab CI pipelines for container builds, tests, and blue/green deployments.
+   End-to-end CI/CD with Terraform-provisioned Jenkins, Docker image builds, and React deployments to Elastic Beanstalk.
 
 4. **[EC2 Blue/Green Deployments](https://github.com/seyithanalkan/ec2-blue-green)**  
-   Automated blue/green release strategy on EC2 with AWS CLI and Terraform modules.
+   Blue/green release strategy on EC2 using AWS CLI, ALB Listener, Target Groups and PowerShell.
 
-5. **[AWS Fargate Automation](https://github.com/seyithanalkan/aws-fargate-automation)**  
-   Terraform modules and scripts to deploy microservices on Fargate—including ALB, target groups, and autoscaling.
+5. **[AWS Fargate Deployment Automation](https://github.com/seyithanalkan/aws-fargate-automation)**  
+   Terraform-provisioned network + GitHub Actions/CloudFormation for ECS on Fargate with Nginx support.
 
 6. **[API Gateway + Lambda + EC2](https://github.com/seyithanalkan/apigw-lambda-ec2)**  
-   Serverless endpoints fronting EC2-hosted services with API Gateway, Lambda authorization, and CloudWatch monitoring.
+   Serverless API Gateway triggers a Lambda that spins up an Nginx EC2 instance via Terraform.
 
 7. **[AWS Cost Report](https://github.com/seyithanalkan/aws_cost_report)**  
-   Automated cost reporting and budgeting with AWS Cost Explorer APIs and scheduled alerts.
+   Automated cost reporting and budgeting with AWS Cost Explorer APIs.
+
 
 ---
 
