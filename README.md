@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Seyit Han</h1>
+<h1 align="center">👋 Hi, I'm Seyit Han Alkan</h1>
 <h3 align="center">DevOps & SRE Engineer | AWS • Kubernetes • CI/CD</h3>
 
 ---
@@ -26,30 +26,29 @@
 7. **[AWS Cost Report](https://github.com/seyithanalkan/aws_cost_report)**  
    Automated cost reporting and budgeting with AWS Cost Explorer APIs.
 
+---
+
+## 💼 My CV  
+📄 [Seyit Han Alkan CV (PDF)](https://drive.google.com/file/d/1QUF2hs9gfltYJTsp1zerqDgL0v__C9nN/view?usp=sharing)
 
 ---
 
-## 💼 My CV
-
-📄 [Seyit Han Alkan CV (PDF)](https://drive.google.com/file/d/19LbxWkmcC90fe2x2zx_Uy7LD3Xmm2TV8/view?usp=drivesdk)
-
----
-
-## 💬 Ask Me About
+## 💬 Ask Me About  
 - CI/CD pipelines (GitHub Actions, GitLab CI)  
 - Containers & Orchestration (Docker, Kubernetes)  
 - AWS Services & Automation  
 
 ---
 
-## 📫 Contact
-- 🌐 [seyithanalkan.com](https://seyithanalkan.com) 
-- ✉️ seyithanalkan@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/seyithanalkan)
+## 📫 Contact  
+- 🌐 [seyithanalkan.com](https://seyithanalkan.com)  
+- ✉️ [seyithanalkan@gmail.com](mailto:seyithanalkan@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/seyithanalkan)  
+- 🐙 [GitHub](https://github.com/seyithanalkan)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36" height="36"/>
@@ -65,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyithanalkan&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyithanalkan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
