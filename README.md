@@ -1,68 +1,84 @@
-<h1 align="center">👋 Hi, I'm Seyit Han Alkan</h1>
+<h1 align="center">👋 Hi, I'm <strong>Seyit Han Alkan</strong></h1>
 <h3 align="center">DevOps & SRE Engineer | AWS • Kubernetes • CI/CD</h3>
+
+<p align="center">
+  <a href="https://seyithanalkan.com">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/seyithanalkan">LinkedIn</a> •
+  <a href="mailto:seyithanalkan@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🔭 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Expert-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Proficiency-blue?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure-blueviolet?logo=terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-success?logo=githubactions&logoColor=white" />
+</p>
 
-1. **[MLOps Retail Forecast Pipeline](https://github.com/seyithanalkan/mlops-project)**  
-   End-to-end ML pipeline on AWS ECS: data generation, feature engineering, model training, and FastAPI serving via Fargate.
+---
 
-2. **[Kubernetes Automation](https://github.com/seyithanalkan/kubernetes-automation)**  
-   Pulumi & Helm CI for provisioning EKS, packaging & pushing React Helm charts to ECR, and deploying via ArgoCD.
+## 🚀 Featured Projects
 
-3. **[CI/CD Automation](https://github.com/seyithanalkan/ci-cd-automation)**  
-   End-to-end CI/CD with Terraform-provisioned Jenkins, Docker image builds, and React deployments to Elastic Beanstalk.
+🔹 **[MLOps Retail Forecast Pipeline](https://github.com/seyithanalkan/mlops-project)**  
+End-to-end ML pipeline on AWS ECS: data generation, feature engineering, model training, and FastAPI serving via Fargate.
 
-4. **[EC2 Blue/Green Deployments](https://github.com/seyithanalkan/ec2-blue-green)**  
-   Blue/green release strategy on EC2 using AWS CLI, ALB Listener, Target Groups and PowerShell.
+🔹 **[Kubernetes Automation](https://github.com/seyithanalkan/kubernetes-automation)**  
+Pulumi + Helm CI pipeline for provisioning EKS, packaging & pushing Helm React charts to ECR, and deploying via ArgoCD.
 
-5. **[AWS Fargate Deployment Automation](https://github.com/seyithanalkan/aws-fargate-automation)**  
-   Terraform-provisioned network + GitHub Actions/CloudFormation for ECS on Fargate with Nginx support.
+🔹 **[CI/CD Automation](https://github.com/seyithanalkan/ci-cd-automation)**  
+Terraform-provisioned Jenkins, Docker image builds, and React deployments to Elastic Beanstalk.
 
-6. **[API Gateway + Lambda + EC2](https://github.com/seyithanalkan/apigw-lambda-ec2)**  
-   Serverless API Gateway triggers a Lambda that spins up an Nginx EC2 instance via Terraform.
+🔹 **[EC2 Blue/Green Deployments](https://github.com/seyithanalkan/ec2-blue-green)**  
+AWS ALB Listener + Target Groups to implement blue/green EC2 release strategy.
 
-7. **[AWS Cost Report](https://github.com/seyithanalkan/aws_cost_report)**  
-   Automated cost reporting and budgeting with AWS Cost Explorer APIs.
+🔹 **[AWS Fargate Deployment Automation](https://github.com/seyithanalkan/aws-fargate-automation)**  
+Hybrid workflow using Terraform + GitHub Actions + CloudFormation for ECS Fargate + Nginx.
+
+🔹 **[API Gateway + Lambda + EC2](https://github.com/seyithanalkan/apigw-lambda-ec2)**  
+Serverless workflow: API Gateway triggers a Lambda that automatically provisions an Nginx EC2 instance.
+
+🔹 **[AWS Cost Report](https://github.com/seyithanalkan/aws_cost_report)**  
+Automated reporting and budgeting with AWS Cost Explorer APIs.
 
 ---
 
 ## 💼 My CV  
-📄 [Seyit Han Alkan CV (PDF)](https://drive.google.com/file/d/1QUF2hs9gfltYJTsp1zerqDgL0v__C9nN/view?usp=sharing)
+📄 **[Seyit Han Alkan CV (PDF)](https://drive.google.com/file/d/1QUF2hs9gfltYJTsp1zerqDgL0v__C9nN/view?usp=sharing)**
 
 ---
 
-## 💬 Ask Me About  
+## 💬 Ask Me About
+
 - CI/CD pipelines (GitHub Actions, GitLab CI)  
-- Containers & Orchestration (Docker, Kubernetes)  
-- AWS Services & Automation  
+- Kubernetes, Docker, Container Orchestration  
+- AWS Cloud Services & Infrastructure Automation  
+- Terraform, IaC, Deployment Pipelines  
 
 ---
 
-## 📫 Contact  
-- 🌐 [seyithanalkan.com](https://seyithanalkan.com)  
-- ✉️ [seyithanalkan@gmail.com](mailto:seyithanalkan@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/seyithanalkan)  
-- 🐙 [GitHub](https://github.com/seyithanalkan)
-
----
-
-## 🛠️ Technologies & Tools  
+## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="36" height="36"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,git,githubactions,linux,bash,nginx,python&theme=dark" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyithanalkan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyithanalkan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyithanalkan&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+---
+
+## 📫 Contact
+
+- 🌐 Website: **https://seyithanalkan.com**  
+- 🔗 LinkedIn: **https://linkedin.com/in/seyithanalkan**  
+- ✉️ Email: **seyithanalkan@gmail.com**
+
+---
+<p align="center">⚡ Always building, automating and learning.</p>
