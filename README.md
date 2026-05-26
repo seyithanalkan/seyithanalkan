@@ -44,7 +44,8 @@ Automated reporting and budgeting with AWS Cost Explorer APIs.
 ---
 
 ## 💼 My CV  
-📄 **[Seyit Han Alkan CV (PDF)](https://drive.google.com/file/d/1QUF2hs9gfltYJTsp1zerqDgL0v__C9nN/view?usp=sharing)**
+📄 **[Seyit Han Alkan CV (PDF)](https://drive.google.com/file/d/1_HRqlxnyRJYPHZRR4m1bBPNe3f2YYYsR/view?usp=sharing)**
+
 
 ---
 
