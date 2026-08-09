@@ -69,15 +69,6 @@ Automated reporting and budgeting with AWS Cost Explorer APIs.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyithanalkan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyithanalkan&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 📫 Contact
 
 - 🌐 Website: **https://seyithanalkan.com**  
