@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <strong>Seyit Han Alkan</strong></h1>
-<h3 align="center">DevOps & SRE Engineer | AWS • Kubernetes • CI/CD</h3>
+<h3 align="center">Senior DevOps & Platform Engineer | AWS • Kubernetes • CI/CD</h3>
 
 <p align="center">
-  <a href="https://seyithanalkan.com">🌐 Portfolio</a> •
+  <a href="https://seyithanalkan.com">🌐 seyithanalkan.com</a> •
   <a href="https://linkedin.com/in/seyithanalkan">LinkedIn</a> •
   <a href="mailto:seyithanalkan@gmail.com">Email</a>
 </p>
@@ -19,6 +19,9 @@
 ---
 
 ## 🚀 Featured Projects
+
+🔹 **[iyzico MCP Server](https://github.com/seyithanalkan/iyzico-mcp)**  
+MCP server for iyzico, Turkey's leading payment gateway: payments, refunds, checkout forms, and subscriptions — 10 tools, IYZWSv2 request signing, live-tested against the real sandbox API.
 
 🔹 **[MLOps Retail Forecast Pipeline](https://github.com/seyithanalkan/mlops-project)**  
 End-to-end ML pipeline on AWS ECS: data generation, feature engineering, model training, and FastAPI serving via Fargate.
